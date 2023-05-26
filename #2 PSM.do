@@ -1,6 +1,5 @@
 
-
-global $ruta "D:\PEA UNI\Modulo 4\EVALUACION DE IMPACTO\Nueva carpeta"
+global $ruta "D:\EVALUACION DE IMPACTO\Nueva carpeta"
 cd $ruta
 *------
 
