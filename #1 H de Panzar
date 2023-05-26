@@ -1,5 +1,9 @@
 
-
+/*
+Comparto mi sintaxis utilizada en el documento de trabajo
+"Competencia en el mercado de servicios móviles en el Perú: Una aplicación del estadístico H de Panzar y Rose" -
+Mg Manuel Gavilano
+*/
 global ruta "C:\Users\JOSE\Desktop\Manuel"
 cd $ruta
 
